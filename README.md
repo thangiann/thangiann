@@ -1,1 +1,1 @@
-<img src="koi/koi.gif width="256">
+![My Koi](koi/koi.gif)
